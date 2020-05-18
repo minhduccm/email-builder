@@ -1,4 +1,4 @@
-# email-builder
+# Email builder
 
 Nowadays, digital materials are also thought as institution's assets. And with blockchain technology's help, we now have more choices to store the assets in a decentralized and safer manner.
 
