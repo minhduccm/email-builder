@@ -1,8 +1,8 @@
 # Email builder
 
-Nowadays, digital materials are also thought as institution's assets. And with blockchain technology's help, we now have more choices to store the assets in a decentralized and safer manner.
+Nowadays, digital materials are also thought of as institution's assets. And with blockchain technology's help, we now have more choices to store the assets in a decentralized and safer manner.
 
-Particularly, we're introducing an web-based Email builder that allows users to compose their own email templates and store them permanently on Arweave blockchain.
+Particularly, we're introducing a web-based Email builder that allows users to compose their own email templates and store them permanently on Arweave blockchain.
 
 
 **The website is hosted at** https://hmbnxtoyhc6t.arweave.net/47vOvFLtEiwVDgk_Hpb82VduI8WKVO_aM6HqnLkRHOc
